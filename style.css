@@ -1,0 +1,11 @@
+/* 
+var(--tg-theme-bg-color)
+var(--tg-theme-next-color)
+var(--tg-theme-hint-color)
+var(--tg-theme-link-color)
+var(--tg-theme-button-color)
+var(--tg-theme-button-text-color) */
+
+html, body {
+   height: 100%;
+}
